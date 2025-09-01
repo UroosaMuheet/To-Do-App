@@ -10,7 +10,7 @@ This project demonstrates:
 - Clean code, architecture, and documented thought process
 
 The app provides basic task management functionality (create, list, complete, and delete tasks) and includes notes on trade-offs, assumptions, and future scalability considerations.
-
+```
 📁Folder structure
 to-do-app/
 ├── backend/
@@ -33,3 +33,4 @@ Each of 🎨**frontend** and ⚙️**backend** folders have their individual REA
 
 🙋**For questions or discussion**
 📧 Email : uroosa.muheet@gmail.com 
+```
