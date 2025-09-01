@@ -25,11 +25,11 @@ Users can register, log in, and manage their tasks.
 ```
 todo-frontend/
 │
-│── src/
-│   ├── api/
+│── 📂src/
+│   ├── 📂api/
 │   │   └── api.jsx              # Axios instance with baseURL & CORS support
 │   │
-│   ├── components/
+│   ├── 📂components/
 │   │   ├── ToDoList.jsx        # List of all todos
 │   │   ├── ToDoItem.jsx        # Single todo row
 │   │   ├── AddToDoForm.jsx     # Add new todo form
@@ -37,17 +37,17 @@ todo-frontend/
 │   │   ├── RegisterForm.jsx    # Register new user
 │   │   └── LoginForm.jsx       # Login user
 │   │
-│   ├── pages/
+│   ├── 📂pages/
 │   │   ├── Home.jsx            # Main dashboard (todo list + form)
 │   │   ├── Register.jsx        # Register page
 │   │   └── Login.jsx           # Login page
 │   │
-│   ├── context/
+│   ├── 📂context/
 │   │   └── AuthContext.jsx     # Creates an empty context that contains state
 |   |   └── AuthProvider.jsx    # Uses the context to handle auth state globally
 |   |   └── useAuth.jsx         # Custom hook to access auth operations - register, login, logout
 │   │
-│   ├── utils/
+│   ├── 📂utils/
 │   │   └── PrivateRoute.jsx    # Wrapper for routes that require authentication
 │   │
 │   ├── App.jsx                 # Main app routes
