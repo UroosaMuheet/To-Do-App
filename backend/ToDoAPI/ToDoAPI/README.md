@@ -35,6 +35,7 @@ Designed to integrate with a **React frontend**.
 ---
 
 ## 📂 Project Structure
+```
 ToDoApi/
 │── Controllers/
 │ ├── UserController.cs # User registration & login
@@ -64,8 +65,7 @@ ToDoApi/
 │── ToDoAPI.csproj # XML file containing dependencies and libraries
 │── appsettings.json # JWT secret & DB config 
 
-
----
+```
 
 ## ⚙️ Setup Instructions
 - Before you build the project, set the ConnectionStrings attribute in appsettings.json to point to the location of a valid SQLite DB file
@@ -83,7 +83,7 @@ dotnet ef database update
 dotnet run 
 ```
 
-API will be available at:
+**API will be available at: **
 👉 http://localhost:5106/swagger/index.html
 (Or, 👀look for the localhost base URL that is displayed in Terminal when the project is run)
 
