@@ -25,12 +25,13 @@ to-do-app/
 │   ├── package.json
 │   └── ...
 └── README.md
-
+```
 Each of 🎨**frontend** and ⚙️**backend** folders have their individual README.md file with detailed instructions on how to build and test the applications.
-
+```
 🌐 The frontend React application has been created using Vite, so it runs by default on http://localhost:5173
 🛢️ The backend .Net 9 application runs on http://localhost:5106, but observe the localhost base URL shown in [info] messages in the terminal when the project is run 
-
+```
 🙋**For questions or discussion**
+```
 📧 Email : uroosa.muheet@gmail.com 
 ```
