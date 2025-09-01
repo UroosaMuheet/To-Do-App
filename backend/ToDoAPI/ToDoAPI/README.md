@@ -83,7 +83,7 @@ dotnet ef database update
 dotnet run 
 ```
 
-** API will be available at: **
+API will be available at:  
 👉 http://localhost:5106/swagger/index.html
 (Or, 👀look for the localhost base URL that is displayed in Terminal when the project is run)
 
