@@ -101,7 +101,7 @@ Bearer <token_value_received_from_login_response>
 
  📖 Swagger Documentation page (/swagger/index.html)
 
-<video controls src="20250901-1903-02.5181649.mp4" title="Title"></video>
+![Watch the video](https://raw.githubusercontent.com/UroosaMuheet/to-do-app.git/main/backend/ToDoAPI/ToDoAPI/20250901-1903-02.5181649.mp4)]
 
   🔑Authorizing user
 <video controls src="20250901-1905-17.7936059.mp4" title="Title"></video>
