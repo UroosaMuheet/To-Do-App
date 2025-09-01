@@ -75,7 +75,7 @@ ToDoApi/
 ### 1. Clone Repository
 ```
 sh
-git clone https://github.com/UroosaMuheer/to-do-app.git
+git clone https://github.com/UroosaMuheet/to-do-app.git
 cd to-do-app
 cd backend\ToDoAPI\ToDoAPI
 dotnet build
