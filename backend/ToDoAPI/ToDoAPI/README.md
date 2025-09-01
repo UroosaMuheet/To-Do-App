@@ -84,7 +84,7 @@ dotnet ef database update
 dotnet run 
 ```
 
-**API will be available at: **
+** API will be available at: **
 👉 http://localhost:5106/swagger/index.html
 (Or, 👀look for the localhost base URL that is displayed in Terminal when the project is run)
 
@@ -101,7 +101,7 @@ Bearer <token_value_received_from_login_response>
 
  📖 Swagger Documentation page (/swagger/index.html)
 
-![Watch the video](https://raw.githubusercontent.com/UroosaMuheet/to-do-app/main/backend/ToDoAPI/ToDoAPI/20250901-1903-02.5181649.mp4)
+![Watch the video](20250901-1903-02.5181649.mp4)
 
   🔑Authorizing user
 <video controls src="20250901-1905-17.7936059.mp4" title="Title"></video>
