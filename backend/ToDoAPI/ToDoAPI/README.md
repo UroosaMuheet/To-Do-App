@@ -73,7 +73,8 @@ ToDoApi/
 - The following steps will install dependencies and create Migrations folder in your project folder
 - The migration files will help build the tables in the specified DB (location mentioned in ConnectionStrings)
 ### 1. Clone Repository
-```sh
+```
+sh
 git clone https://github.com/UroosaMuheer/to-do-app.git
 cd to-do-app
 cd backend\ToDoAPI\ToDoAPI
