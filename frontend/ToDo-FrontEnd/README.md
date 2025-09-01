@@ -22,7 +22,7 @@ Users can register, log in, and manage their tasks.
 ---
 
 ## 📂 Project Structure
-
+```
 todo-frontend/
 │
 │── src/
@@ -57,7 +57,7 @@ todo-frontend/
 ├── package.json
 ├── README.md
 └── vite.config.js 
-
+```
 
 ---
 
