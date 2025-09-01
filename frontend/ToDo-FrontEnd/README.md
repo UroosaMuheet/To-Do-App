@@ -74,18 +74,18 @@ todo-frontend/
 
 ## 📸 Screenshots
 
-Login Page
+Login Page  
 ![alt text](image.png)
 
-Register Page
+Register Page  
 ![alt text](image-2.png)
 
-To-Do List Page
+To-Do List Page  
 - Add new To Do Item
 ![alt text](image-1.png)
 
-- View existing To Dos
+- View existing To Dos  
 ![alt text](image-3.png)
 
-- Update To Do
+- Update To Do  
 ![alt text](image-4.png)
