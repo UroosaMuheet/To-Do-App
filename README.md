@@ -99,6 +99,36 @@ It provides the essential functionality for a real-world application while maint
 - **Frontend is functional, styled, and communicates with backend APIs.**
 - **Architecture is scalable** and ready for production deployment.
 
+### ✨ Future Enhancements
+
+1. **Authentication & Authorization**  
+   - Role-based access control (admin vs. regular users).
+
+2. **Persistent, production-suited Database**
+   - Replace **SQLite** with **SQL Server** for real data persistence.
+
+3. **Task Features**
+   - Due dates with reminders/notifications.
+
+4. **Frontend Improvements**
+   - Enhanced UI with **Material UI**, **Tailwind CSS**, or similar frameworks.
+   - Responsive design for mobile devices.
+   - Drag-and-drop for task reordering.
+   - Dark mode toggle.
+
+5. **Backend Enhancements**
+   - Logging and error monitoring (e.g., Serilog).
+   - Validation and more detailed error responses.
+   - Scalable API structure for larger projects.
+
+6. **Testing & CI/CD**
+   - Unit and integration tests for backend and frontend.
+   - Set up automated builds and deployments (GitHub Actions).
+
+7. **Analytics & Reports**
+   - Track task completion statistics.
+   - Dashboard showing active, overdue, and completed tasks.
+
 👉 With minimal setup, this project can be deployed to production (e.g.,  
 - Backend on **Azure/Render/Heroku**,  
 - Frontend on **Vercel/Netlify**),  
