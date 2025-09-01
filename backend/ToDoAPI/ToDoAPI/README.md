@@ -102,5 +102,5 @@ Bearer <token_value_received_from_login_response>
 
 ![Watch the video](20250901-1903-02.5181649.mp4)
 
-🔑Authorizing user
+🔑Authorizing user  
 ![Watch the video](20250901-1905-17.7936059.mp4)
