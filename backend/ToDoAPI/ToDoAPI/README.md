@@ -37,27 +37,27 @@ Designed to integrate with a **React frontend**.
 ## 📂 Project Structure
 ```
 ToDoApi/
-│── Controllers/
+│── 📂Controllers/
 │ ├── UserController.cs # User registration & login
 │ ├── ToDoController.cs # CRUD for ToDo items
 │
-│── ToDoAPI.Infrastructure/
-|   ├── Data/
+│── 📂ToDoAPI.Infrastructure/
+|   ├── 📂Data/
 │       ├── AppDbContext.cs # EF Core DbContext
 |
-│── ToDoAPI.Core/
-|   │── Entities/
+│── 📂ToDoAPI.Core/
+|   │──📂Entities/
 |        ├── User.cs     # User entity
 |        ├── ToDoItem.cs # ToDoItem entity
-|   │── Enums/
+|   │── 📂Enums/
 |        ├── PriorityLevel.cs # Priority levels - low, medium, high
 |        ├── Statuses.cs      # Status values - Ready To Start, In Progress, Pending, Overdue, Done
-|   │── Interfaces/
+|   │── 📂Interfaces/
 |        ├── IToDoService.cs      # ToDo service interface
 |        ├── IUserService.cs      # User service interface
 |   │── DTOs.cs         # Data Transfer Object for user registration, login and authentication
 │
-│── Services/
+│── 📂Services/
 │ ├── ToDoService.cs # ToDo service implementation
 │ ├── UserService.cs # User service implementation
 │
