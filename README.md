@@ -9,6 +9,10 @@ This project demonstrates:
 - Communication between frontend and backend
 - Clean code, architecture, and documented thought process
 
+**Assumptions**
+- It is assumed that the user will enter valid email and password during registration
+- There is no media (files, videos, images, etc.,) in the To Do items
+
 The app provides basic task management functionality (create, list, complete, and delete tasks) and includes notes on trade-offs, assumptions, and future scalability considerations.
 ```
 📁Folder structure
