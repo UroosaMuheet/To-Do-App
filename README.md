@@ -51,6 +51,7 @@ It provides the essential functionality for a real-world application while maint
   - Full CRUD operations for **To-Do items**.
 - **CORS enabled** for frontend ↔ backend communication.
 - Separation of concerns: `Controllers`, `Models`, `Data` for maintainability.
+- Dependency Injection for greater modularity and loose coupling between data and its usage
 
 🔒 **MVP Production Feature:** Authentication ensures users only manage their own tasks.
 
@@ -63,7 +64,7 @@ It provides the essential functionality for a real-world application while maint
 - Provides:
   - User login/logout handling with JWT persistence.
   - Interactive To-Do management: Add, update (mark complete/incomplete), and delete tasks.
-- Styled with **Tailwind CSS** (or fallback CSS) for a clear and usable interface.
+- Styled with CSS (or fallback CSS) for a clear and usable interface.
 
 📱 **MVP Production Feature:** Browser-ready and responsive design for accessibility.
 
@@ -103,6 +104,7 @@ It provides the essential functionality for a real-world application while maint
 
 1. **Authentication & Authorization**  
    - Role-based access control (admin vs. regular users).
+   - Transfer of data over more secure (HTTPS) protocol
 
 2. **Persistent, production-suited Database**
    - Replace **SQLite** with **SQL Server** for real data persistence.
